@@ -128,6 +128,7 @@ saveBtn.addEventListener("click", async () => {
   }
 });
 
-await fetchStudents();
+fetchStudents();
+
 
 
